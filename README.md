@@ -1,1 +1,1 @@
-Sudoke checker and solver
+Sudoku checker and solver
